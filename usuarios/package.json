@@ -1,0 +1,16 @@
+{
+  "name": "microservicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+"scripts": {
+  "test": "jest --watchAll",
+  "start": "node app.js"
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
